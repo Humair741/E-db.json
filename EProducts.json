@@ -1,0 +1,148 @@
+{
+    "Products": [
+        {
+            "id": "1",
+            "name": "Awesome Product 1",
+            "price": "30",
+            "priceAfterDiscount": "25",
+            "imgName": "cat1",
+            "ratings": "3"
+        },
+        {
+            "id": "2",
+            "name": "Cool Product 1",
+            "price": "90",
+            "priceAfterDiscount": "75",
+            "imgName": "cat2",
+            "ratings": "4"
+        },
+        {
+            "id": "3",
+            "name": "Expensive Product 1",
+            "price": "130",
+            "priceAfterDiscount": "125",
+            "imgName": "cat3",
+            "ratings": "4"
+        },
+        {
+            "id": "4",
+            "name": "Small Product 1",
+            "price": "30",
+            "priceAfterDiscount": "20",
+            "imgName": "cat4",
+            "ratings": "2"
+        },
+        {
+            "id": "5",
+            "name": "Awesome Product 2",
+            "price": "70",
+            "priceAfterDiscount": "60",
+            "imgName": "cat5",
+            "ratings": "3"
+        },
+        {
+            "id": "6",
+            "name": "Awesome Product 6",
+            "price": "40",
+            "priceAfterDiscount": "30",
+            "imgName": "cat6",
+            "ratings": "4"
+        },
+        {
+            "id": "7",
+            "name": "cool Product 7",
+            "price": "140",
+            "priceAfterDiscount": "130",
+            "imgName": "cat7",
+            "ratings": "4"
+        },
+        {
+            "id": "8",
+            "name": "Awesome Product 8",
+            "price": "90",
+            "priceAfterDiscount": "70",
+            "imgName": "cat8",
+            "ratings": "3"
+        },
+        {
+            "id": "9",
+            "name": "Expensive Product 9",
+            "price": "240",
+            "priceAfterDiscount": "210",
+            "imgName": "cat8",
+            "ratings": "4"
+        },
+        {
+            "id": "10",
+            "name": "Cheap Product 10",
+            "price": "80",
+            "priceAfterDiscount": "70",
+            "imgName": "cat10",
+            "ratings": "2"
+        },
+        {
+            "id": "11",
+            "name": "Awesome Product 11",
+            "price": "220",
+            "priceAfterDiscount": "190",
+            "imgName": "cat11",
+            "ratings": "5"
+        },
+        {
+            "id": "12",
+            "name": "Best Product 12",
+            "price": "340",
+            "priceAfterDiscount": "330",
+            "imgName": "cat12",
+            "ratings": "4"
+        },
+        {
+            "id": "13",
+            "name": "Awesome Product 13",
+            "price": "40",
+            "priceAfterDiscount": "30",
+            "imgName": "cat13",
+            "ratings": "4"
+        },
+        {
+            "id": "14",
+            "name": "Cool Product 14",
+            "price": "400",
+            "priceAfterDiscount": "380",
+            "imgName": "cat14",
+            "ratings": "3"
+        },
+        {
+            "id": "15",
+            "name": "Light Product 15",
+            "price": "180",
+            "priceAfterDiscount": "160",
+            "imgName": "cat15",
+            "ratings": "3"
+        },
+        {
+            "id": "16",
+            "name": "Awesome Product 16",
+            "price": "240",
+            "priceAfterDiscount": "230",
+            "imgName": "cat16",
+            "ratings": "2"
+        },
+        {
+            "id": "17",
+            "name": "Heavy Product 17",
+            "price": "500",
+            "priceAfterDiscount": "430",
+            "imgName": "cat17",
+            "ratings": "5"
+        },
+        {
+            "id": "18",
+            "name": "Awesome Product 18",
+            "price": "440",
+            "priceAfterDiscount": "400",
+            "imgName": "cat18",
+            "ratings": "2"
+        }
+    ]
+}
