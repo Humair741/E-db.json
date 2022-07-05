@@ -6,7 +6,9 @@
             "price": "30",
             "priceAfterDiscount": "25",
             "imgName": "cat1",
-            "ratings": "3"
+            "ratings": "3",
+            "group": "1",
+            "grouphover": "1.1"
         },
         {
             "id": "2",
@@ -14,7 +16,9 @@
             "price": "90",
             "priceAfterDiscount": "75",
             "imgName": "cat2",
-            "ratings": "4"
+            "ratings": "4",
+            "group": "2",
+            "grouphover": "2.1"
         },
         {
             "id": "3",
@@ -22,7 +26,9 @@
             "price": "130",
             "priceAfterDiscount": "125",
             "imgName": "cat3",
-            "ratings": "4"
+            "ratings": "4",
+            "group": "3",
+            "grouphover": "3.1"
         },
         {
             "id": "4",
@@ -30,7 +36,9 @@
             "price": "30",
             "priceAfterDiscount": "20",
             "imgName": "cat4",
-            "ratings": "2"
+            "ratings": "2",
+            "group": "4",
+            "grouphover": "4.1"
         },
         {
             "id": "5",
@@ -38,7 +46,9 @@
             "price": "70",
             "priceAfterDiscount": "60",
             "imgName": "cat5",
-            "ratings": "3"
+            "ratings": "3",
+            "group": "5",
+            "grouphover": "5.1"
         },
         {
             "id": "6",
@@ -46,7 +56,9 @@
             "price": "40",
             "priceAfterDiscount": "30",
             "imgName": "cat6",
-            "ratings": "4"
+            "ratings": "4",
+            "group": "6",
+            "grouphover": "6.1"
         },
         {
             "id": "7",
@@ -54,7 +66,9 @@
             "price": "140",
             "priceAfterDiscount": "130",
             "imgName": "cat7",
-            "ratings": "4"
+            "ratings": "4",
+            "group": "7",
+            "grouphover": "7.1"
         },
         {
             "id": "8",
@@ -62,7 +76,9 @@
             "price": "90",
             "priceAfterDiscount": "70",
             "imgName": "cat8",
-            "ratings": "3"
+            "ratings": "3",
+            "group": "8",
+            "grouphover": "8.1"
         },
         {
             "id": "9",
@@ -70,7 +86,9 @@
             "price": "240",
             "priceAfterDiscount": "210",
             "imgName": "cat8",
-            "ratings": "4"
+            "ratings": "4",
+            "group": "9",
+            "grouphover": "9.1"
         },
         {
             "id": "10",
@@ -78,7 +96,9 @@
             "price": "80",
             "priceAfterDiscount": "70",
             "imgName": "cat10",
-            "ratings": "2"
+            "ratings": "2",
+            "group": "10",
+            "grouphover": "10.1"
         },
         {
             "id": "11",
@@ -86,7 +106,9 @@
             "price": "220",
             "priceAfterDiscount": "190",
             "imgName": "cat11",
-            "ratings": "5"
+            "ratings": "5",
+            "group": "11",
+            "grouphover": "11.1"
         },
         {
             "id": "12",
@@ -94,7 +116,9 @@
             "price": "340",
             "priceAfterDiscount": "330",
             "imgName": "cat12",
-            "ratings": "4"
+            "ratings": "4",
+            "group": "12",
+            "grouphover": "12.1"
         },
         {
             "id": "13",
@@ -102,7 +126,9 @@
             "price": "40",
             "priceAfterDiscount": "30",
             "imgName": "cat13",
-            "ratings": "4"
+            "ratings": "4",
+            "group": "13",
+            "grouphover": "13.1"
         },
         {
             "id": "14",
@@ -110,7 +136,9 @@
             "price": "400",
             "priceAfterDiscount": "380",
             "imgName": "cat14",
-            "ratings": "3"
+            "ratings": "3",
+            "group": "14",
+            "grouphover": "14.1"
         },
         {
             "id": "15",
@@ -118,7 +146,9 @@
             "price": "180",
             "priceAfterDiscount": "160",
             "imgName": "cat15",
-            "ratings": "3"
+            "ratings": "3",
+            "group": "15",
+            "grouphover": "15.1"
         },
         {
             "id": "16",
@@ -126,7 +156,9 @@
             "price": "240",
             "priceAfterDiscount": "230",
             "imgName": "cat16",
-            "ratings": "2"
+            "ratings": "2",
+            "group": "16",
+            "grouphover": "16.1"
         },
         {
             "id": "17",
@@ -134,7 +166,9 @@
             "price": "500",
             "priceAfterDiscount": "430",
             "imgName": "cat17",
-            "ratings": "5"
+            "ratings": "5",
+            "group": "17",
+            "grouphover": "17.1"
         },
         {
             "id": "18",
@@ -142,7 +176,9 @@
             "price": "440",
             "priceAfterDiscount": "400",
             "imgName": "cat18",
-            "ratings": "2"
+            "ratings": "2",
+            "group": "18",
+            "grouphover": "18.1"
         }
     ]
 }
