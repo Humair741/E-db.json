@@ -7,8 +7,12 @@
             "priceAfterDiscount": "25",
             "imgName": "cat1",
             "ratings": "3",
-            "group": "1",
-            "grouphover": "1.1"
+            "heart": "1",
+            "eye": "1",
+            "cart": "1",
+            "hearthover": "1",
+            "eyehover": "1",
+            "carthover": "1"
         },
         {
             "id": "2",
@@ -17,8 +21,12 @@
             "priceAfterDiscount": "75",
             "imgName": "cat2",
             "ratings": "4",
-            "group": "2",
-            "grouphover": "2.1"
+            "heart": "2",
+            "eye": "2",
+            "cart": "2",
+            "hearthover": "2",
+            "eyehover": "2",
+            "carthover": "2"
         },
         {
             "id": "3",
@@ -27,8 +35,12 @@
             "priceAfterDiscount": "125",
             "imgName": "cat3",
             "ratings": "4",
-            "group": "3",
-            "grouphover": "3.1"
+            "heart": "3",
+            "eye": "3",
+            "cart": "3",
+            "hearthover": "3",
+            "eyehover": "3",
+            "carthover": "3"
         },
         {
             "id": "4",
@@ -37,8 +49,12 @@
             "priceAfterDiscount": "20",
             "imgName": "cat4",
             "ratings": "2",
-            "group": "4",
-            "grouphover": "4.1"
+            "heart": "4",
+            "eye": "4",
+            "cart": "4",
+            "hearthover": "4",
+            "eyehover": "4",
+            "carthover": "4"
         },
         {
             "id": "5",
@@ -47,8 +63,12 @@
             "priceAfterDiscount": "60",
             "imgName": "cat5",
             "ratings": "3",
-            "group": "5",
-            "grouphover": "5.1"
+            "heart": "5",
+            "eye": "5",
+            "cart": "5",
+            "hearthover": "5",
+            "eyehover": "5",
+            "carthover": "5"
         },
         {
             "id": "6",
@@ -57,8 +77,12 @@
             "priceAfterDiscount": "30",
             "imgName": "cat6",
             "ratings": "4",
-            "group": "6",
-            "grouphover": "6.1"
+            "heart": "6",
+            "eye": "6",
+            "cart": "6",
+            "hearthover": "6",
+            "eyehover": "6",
+            "carthover": "6"
         },
         {
             "id": "7",
@@ -67,8 +91,12 @@
             "priceAfterDiscount": "130",
             "imgName": "cat7",
             "ratings": "4",
-            "group": "7",
-            "grouphover": "7.1"
+            "heart": "7",
+            "eye": "7",
+            "cart": "7",
+            "hearthover": "7",
+            "eyehover": "7",
+            "carthover": "7"
         },
         {
             "id": "8",
@@ -77,8 +105,12 @@
             "priceAfterDiscount": "70",
             "imgName": "cat8",
             "ratings": "3",
-            "group": "8",
-            "grouphover": "8.1"
+            "heart": "8",
+            "eye": "8",
+            "cart": "8",
+            "hearthover": "8",
+            "eyehover": "8",
+            "carthover": "8"
         },
         {
             "id": "9",
@@ -87,8 +119,12 @@
             "priceAfterDiscount": "210",
             "imgName": "cat8",
             "ratings": "4",
-            "group": "9",
-            "grouphover": "9.1"
+            "heart": "9",
+            "eye": "9",
+            "cart": "9",
+            "hearthover": "9",
+            "eyehover": "9",
+            "carthover": "9"
         },
         {
             "id": "10",
@@ -97,8 +133,12 @@
             "priceAfterDiscount": "70",
             "imgName": "cat10",
             "ratings": "2",
-            "group": "10",
-            "grouphover": "10.1"
+            "heart": "10",
+            "eye": "10",
+            "cart": "10",
+            "hearthover": "10",
+            "eyehover": "10",
+            "carthover": "10"
         },
         {
             "id": "11",
@@ -107,8 +147,12 @@
             "priceAfterDiscount": "190",
             "imgName": "cat11",
             "ratings": "5",
-            "group": "11",
-            "grouphover": "11.1"
+            "heart": "11",
+            "eye": "11",
+            "cart": "11",
+            "hearthover": "11",
+            "eyehover": "11",
+            "carthover": "11"
         },
         {
             "id": "12",
@@ -117,8 +161,12 @@
             "priceAfterDiscount": "330",
             "imgName": "cat12",
             "ratings": "4",
-            "group": "12",
-            "grouphover": "12.1"
+            "heart": "12",
+            "eye": "12",
+            "cart": "12",
+            "hearthover": "12",
+            "eyehover": "12",
+            "carthover": "12"
         },
         {
             "id": "13",
@@ -127,8 +175,12 @@
             "priceAfterDiscount": "30",
             "imgName": "cat13",
             "ratings": "4",
-            "group": "13",
-            "grouphover": "13.1"
+            "heart": "13",
+            "eye": "13",
+            "cart": "13",
+            "hearthover": "13",
+            "eyehover": "13",
+            "carthover": "13"
         },
         {
             "id": "14",
@@ -136,9 +188,12 @@
             "price": "400",
             "priceAfterDiscount": "380",
             "imgName": "cat14",
-            "ratings": "3",
-            "group": "14",
-            "grouphover": "14.1"
+            "heart": "14",
+            "eye": "14",
+            "cart": "14",
+            "hearthover": "14",
+            "eyehover": "14",
+            "carthover": "14"
         },
         {
             "id": "15",
@@ -147,8 +202,12 @@
             "priceAfterDiscount": "160",
             "imgName": "cat15",
             "ratings": "3",
-            "group": "15",
-            "grouphover": "15.1"
+            "heart": "15",
+            "eye": "15",
+            "cart": "15",
+            "hearthover": "15",
+            "eyehover": "15",
+            "carthover": "15"
         },
         {
             "id": "16",
@@ -157,8 +216,12 @@
             "priceAfterDiscount": "230",
             "imgName": "cat16",
             "ratings": "2",
-            "group": "16",
-            "grouphover": "16.1"
+            "heart": "16",
+            "eye": "16",
+            "cart": "16",
+            "hearthover": "16",
+            "eyehover": "16",
+            "carthover": "16"
         },
         {
             "id": "17",
@@ -167,8 +230,12 @@
             "priceAfterDiscount": "430",
             "imgName": "cat17",
             "ratings": "5",
-            "group": "17",
-            "grouphover": "17.1"
+            "heart": "17",
+            "eye": "17",
+            "cart": "17",
+            "hearthover": "17",
+            "eyehover": "17",
+            "carthover": "17"
         },
         {
             "id": "18",
@@ -177,8 +244,12 @@
             "priceAfterDiscount": "400",
             "imgName": "cat18",
             "ratings": "2",
-            "group": "18",
-            "grouphover": "18.1"
+            "heart": "18",
+            "eye": "18",
+            "cart": "18",
+            "hearthover": "18",
+            "eyehover": "18",
+            "carthover": "18"
         }
     ]
 }
